@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AndroidAdvancedCode.iml" filepath="$PROJECT_DIR$/AndroidAdvancedCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basscode/basscode.iml" filepath="$PROJECT_DIR$/basscode/basscode.iml" />
       <module fileurl="file://$PROJECT_DIR$/ozlibrary/ozlibrary.iml" filepath="$PROJECT_DIR$/ozlibrary/ozlibrary.iml" />
     </modules>
   </component>
