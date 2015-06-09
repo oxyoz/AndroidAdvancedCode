@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidAdvancedCode.iml" filepath="$PROJECT_DIR$/AndroidAdvancedCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ozlibrary/ozlibrary.iml" filepath="$PROJECT_DIR$/ozlibrary/ozlibrary.iml" />
+    </modules>
+  </component>
+</project>
