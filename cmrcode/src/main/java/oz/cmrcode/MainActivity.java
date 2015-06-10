@@ -1,48 +1,18 @@
-package oz.jnicode;
+package oz.cmrcode;
 
-import android.content.Intent;
-import android.graphics.BitmapFactory;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
-import android.widget.ImageView;
-
-import oz.jnicode.camera.CameraActivity;
 
 public class MainActivity extends AppCompatActivity
 {
-
-
-    ImageView img;
 
     @Override
     protected void onCreate(Bundle savedInstanceState)
     {
         super.onCreate(savedInstanceState);
-
-        img = new ImageView(this);
-
-        img.setScaleType(ImageView.ScaleType.CENTER_CROP);
-
-        setContentView(img);
-
-        Intent intent = new Intent(this, CameraActivity.class);
-
-        startActivityForResult(intent, 0);
-
-    }
-
-    @Override
-    protected void onActivityResult(int requestCode, int resultCode, Intent data)
-    {
-
-        super.onActivityResult(requestCode, resultCode, data);
-
-        byte[] bmdata = data.getExtras().getByteArray("bitmap");
-
-        img.setImageBitmap(BitmapFactory.decodeByteArray(bmdata, 0, bmdata.length));
-
+        setContentView(R.layout.activity_main);
     }
 
     @Override
