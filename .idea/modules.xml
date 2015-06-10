@@ -5,7 +5,13 @@
       <module fileurl="file://$PROJECT_DIR$/AndroidAdvancedCode.iml" filepath="$PROJECT_DIR$/AndroidAdvancedCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/basscode/basscode.iml" filepath="$PROJECT_DIR$/basscode/basscode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bluetoothcode/bluetoothcode.iml" filepath="$PROJECT_DIR$/bluetoothcode/bluetoothcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cameracode/cameracode.iml" filepath="$PROJECT_DIR$/cameracode/cameracode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jnicode/jnicode.iml" filepath="$PROJECT_DIR$/jnicode/jnicode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lbscode/lbscode.iml" filepath="$PROJECT_DIR$/lbscode/lbscode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nfccode/nfccode.iml" filepath="$PROJECT_DIR$/nfccode/nfccode.iml" />
       <module fileurl="file://$PROJECT_DIR$/ozlibrary/ozlibrary.iml" filepath="$PROJECT_DIR$/ozlibrary/ozlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wificode/wificode.iml" filepath="$PROJECT_DIR$/wificode/wificode.iml" />
     </modules>
   </component>
 </project>

@@ -11,7 +11,13 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/basscode" />
+            <option value="$PROJECT_DIR$/bluetoothcode" />
+            <option value="$PROJECT_DIR$/cameracode" />
+            <option value="$PROJECT_DIR$/jnicode" />
+            <option value="$PROJECT_DIR$/lbscode" />
+            <option value="$PROJECT_DIR$/nfccode" />
             <option value="$PROJECT_DIR$/ozlibrary" />
+            <option value="$PROJECT_DIR$/wificode" />
           </set>
         </option>
       </GradleProjectSettings>
