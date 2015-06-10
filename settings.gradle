@@ -1,1 +1,1 @@
-include ':app', ':ozlibrary', ':basscode', ':lbscode', ':jnicode', ':wificode', ':bluetoothcode', ':nfccode', ':cameracode'
+include ':app', ':ozlibrary', ':basscode', ':lbscode', ':jnicode', ':wificode', ':bluetoothcode', ':nfccode'
